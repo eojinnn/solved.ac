@@ -1,4 +1,4 @@
-#solved.ac
+# solved.ac
 
 https://solved.ac/
 
